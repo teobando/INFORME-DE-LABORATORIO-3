@@ -22,6 +22,8 @@ NRC: 10133
 
 **2.MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/94098157/144438775-c5062cf0-a860-4491-b505-9f64b4287edc.png)
+
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
 ![image](https://user-images.githubusercontent.com/94098157/144358967-6f911d74-a0c2-4904-b3ad-606503253c1f.png)
@@ -57,6 +59,34 @@ Primeramente se identifican los nodos principales, el nodo de referencia y el se
 
 ![image](https://user-images.githubusercontent.com/94098157/144364085-a49e2ae1-ce34-4c7c-a3ec-2039b75cbce5.png)
 
-Por lo tanto, la sumatoria de todas las corrientes que salen del nodo son iguales a cero. Al formarse una igualdad se debe establecer que dichas corrientes son iguales  al voltaje sobre la resistencia en base a la ley de ohm, por lo que se forman dos ecuaciones en función a los dos voltajes que quieren calcular. Dichas ecuaciones se las puede resolver mediante una calculadora de Sistemas ecuaciones lineales en este caso se utilizó symbolab en donde X=V 1 y Y=V2. 
+Por lo tanto, la sumatoria de todas las corrientes que salen del nodo son iguales a cero. Al formarse una igualdad se debe establecer que dichas corrientes son iguales  al voltaje sobre la resistencia en base a la ley de ohm, por lo que se forman dos ecuaciones en función a los dos voltajes que quieren calcular. Dichas ecuaciones se las puede resolver mediante una calculadora de Sistemas ecuaciones lineales en este caso se utilizó symbolab en donde X=V 1 y Y=V2.
+
+![image](https://user-images.githubusercontent.com/94098157/144435615-ceb2bf6c-98e6-4f39-8143-ba6d86046bda.png)
+
+Como respuesta tenemos:
+
+![image](https://user-images.githubusercontent.com/94098157/144435809-22500b55-c042-480e-91fe-de4d7b0ec3ce.png)
+
+Pues si bien un resultado nos da negativo es importante mencionar que solo se tomó la  dirección de salida de la corriente para ambos nodos principales 
+
+![image](https://user-images.githubusercontent.com/94098157/144437895-98160335-36a6-4e92-a9d7-76e02948aad2.png)
 
 *4. Compare los valores de la tabla 3.1 y realice sus conclusiones.*
+
+![image](https://user-images.githubusercontent.com/94098157/144434806-7a00f1ff-580b-41b5-9346-5b0460ecced2.png)
+
+**5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+**6. VIDEO:**
+
+https://www.youtube.com/watch?v=yifDJoK_LgQ
+
+**7. CONCLUSIONES**
+- Tener los conceptos claros en lo que ue se refiere a corriente y al definición de un nodo principal y de referencia nos ayudó a medir de forma precisa los diferentes voltajes que pasan por los nodos. 
+- Se pudo observar que las leyes de kirchhoff son el camino para calcular los voltajes en los diferentes nodos. 
+-  
+- Conocer el funcionamiento del multimetro nos ayudó a poder realizar de manera precisa las medicones en las mallas del circuito.
+
+**8. BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
