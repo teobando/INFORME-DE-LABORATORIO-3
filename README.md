@@ -69,7 +69,7 @@ Como respuesta tenemos:
 
 Pues si bien un resultado nos da negativo es importante mencionar que solo se tomó la  dirección de salida de la corriente para ambos nodos principales 
 
-![image](https://user-images.githubusercontent.com/94098157/144467100-24171188-6a36-482f-af1e-00b204e7cac9.png)
+![image](https://user-images.githubusercontent.com/94098157/144470907-6248c683-69a2-4d49-ae44-b715da1a2beb.png)
 
 *4. Compare los valores de la tabla 3.1 y realice sus conclusiones.*
 
