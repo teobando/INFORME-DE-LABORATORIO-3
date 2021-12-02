@@ -22,7 +22,7 @@ NRC: 10133
 
 **2.MARCO TEORICO**
 
-![image](https://user-images.githubusercontent.com/94098157/144438775-c5062cf0-a860-4491-b505-9f64b4287edc.png)
+![image](https://user-images.githubusercontent.com/94098157/144464391-88385fce-f778-4f80-901b-b5cd3bb08bca.png)
 
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
@@ -69,13 +69,18 @@ Como respuesta tenemos:
 
 Pues si bien un resultado nos da negativo es importante mencionar que solo se tomó la  dirección de salida de la corriente para ambos nodos principales 
 
-![image](https://user-images.githubusercontent.com/94098157/144437895-98160335-36a6-4e92-a9d7-76e02948aad2.png)
+![image](https://user-images.githubusercontent.com/94098157/144467100-24171188-6a36-482f-af1e-00b204e7cac9.png)
 
 *4. Compare los valores de la tabla 3.1 y realice sus conclusiones.*
 
-![image](https://user-images.githubusercontent.com/94098157/144434806-7a00f1ff-580b-41b5-9346-5b0460ecced2.png)
+![image](https://user-images.githubusercontent.com/94098157/144466989-63d82875-5353-4502-b9fc-2c16688e8c0f.png)
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+La comprobación de todos los valores de voltaje en los nodos principales por medio de la práctica, el cálculo y una simulación nos arrojaron valores muy similares entre ellos, por lo que la tensión en los nodos del circuito fueron obtenidos de manera correcta.
+
+![image](https://user-images.githubusercontent.com/94098157/144467896-246f4d05-639f-4a48-8596-bf17d823a3aa.png)
+
 
 **6. VIDEO:**
 
@@ -84,9 +89,13 @@ https://www.youtube.com/watch?v=yifDJoK_LgQ
 **7. CONCLUSIONES**
 - Tener los conceptos claros en lo que ue se refiere a corriente y al definición de un nodo principal y de referencia nos ayudó a medir de forma precisa los diferentes voltajes que pasan por los nodos. 
 - Se pudo observar que las leyes de kirchhoff son el camino para calcular los voltajes en los diferentes nodos. 
--  
+- Los valores analiticos, experimentales, simulados muestran una gran semejanza entre ellos, lo que signfica que los voltajes obtenidos en los nodos son precisos.
 - Conocer el funcionamiento del multimetro nos ayudó a poder realizar de manera precisa las medicones en las mallas del circuito.
 
 **8. BIBLIOGRAFÍA**
 
 Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION.
+
+Khan. (2015).*Khan Academy Las Leyes de Kirchhoff*. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+Link_Symbolab:https://es.symbolab.com
