@@ -22,7 +22,7 @@ NRC: 10133
 
 **2.MARCO TEORICO**
 
-![image](https://user-images.githubusercontent.com/94098157/144464391-88385fce-f778-4f80-901b-b5cd3bb08bca.png)
+![image](https://user-images.githubusercontent.com/94098157/144469741-87727aad-907b-4ed0-9204-1fd5a3f6d395.png)
 
 **3.MATERIAL Y EQUIPO REQUERIDO**
 
